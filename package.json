@@ -2,8 +2,8 @@
 {
     "name": "hello_docker_world",
     "version": "1.0.0",
-    "description": "Node.js on Docker Kuppiya Demo",
-    "author": "Chamila Liyanage",
+    "description": "Node.js on Docker ",
+    "author": "Udara Vimukthi",
     "main": "app.js",
     "scripts": {
       "start": "node app.js"
